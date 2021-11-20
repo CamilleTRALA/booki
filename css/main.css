@@ -2,7 +2,6 @@ main {
   padding: 0 50px 0 50px;
   width: 100%;
   max-width: 1800px;
-
   justify-content: center;
   align-items: center;
 }
@@ -24,7 +23,6 @@ main {
   display: flex;
   align-self: flex-start;
   display: flex;
-
   padding-left: 0;
   font-size: 35px;
   white-space: nowrap;
@@ -38,10 +36,8 @@ main {
   border-width: 2px;
   border-color: #f2f2f2;
   background-color: #f2f2f2;
-
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
-
   justify-content: center;
   align-items: center;
 }
@@ -83,9 +79,6 @@ main {
   align-items: center;
 }
 
-.search_button {
-}
-
 .search_button input {
   display: none;
 }
@@ -96,11 +89,8 @@ main {
 
 .button_icon {
   display: none;
-
   color: white;
-
   font-size: 18px;
-
   border-style: solid;
   border-width: 2px;
   border-color: #0065fc;
@@ -109,11 +99,7 @@ main {
   border-bottom-right-radius: 15px;
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
-
   padding: 13px;
-}
-
-.button_icon i {
 }
 
 /* FILTERS */
@@ -121,7 +107,6 @@ main {
 .filtres_title_container {
   display: flex;
   height: auto;
-
   margin-right: 35px;
   align-items: center;
 }
@@ -254,7 +239,6 @@ section {
 .section_title {
   width: auto;
   display: flex;
-
   font-size: 22px;
   margin: 15px 15px 10px 15px;
 }
@@ -289,7 +273,6 @@ section {
 article {
   background-color: #ffffff;
   padding: 5px;
-
   border-radius: 20px;
   box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.07);
 }
@@ -306,7 +289,6 @@ article {
 .hebergements_a_marseille_image_container {
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
-
   width: 100%;
   height: 115px;
 }
@@ -321,8 +303,6 @@ article {
 }
 
 .hebergements_a_marseille_image_container img {
-  /* position: absolute; */
-
   width: 100%;
   min-height: 100%;
 }
@@ -337,7 +317,6 @@ article {
   flex-direction: column;
   width: 490px;
   height: auto;
-
   padding: 25px 25px 25px 23px;
   flex: 1.5;
 }
@@ -346,7 +325,6 @@ article {
   height: auto;
   display: flex;
   flex-direction: column;
-
   justify-content: space-evenly;
   align-content: space-between;
 }
@@ -358,9 +336,7 @@ article {
 .les_plus_populaires_image_container {
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
-
   height: 135px;
-
   flex-grow: 1;
 }
 
@@ -380,7 +356,6 @@ article {
 
 .les_plus_populaires_article {
   display: flex;
-
   justify-content: flex-start;
   flex: 1;
 }
@@ -390,7 +365,6 @@ article {
   flex: 1;
   flex-direction: column;
   margin: 7px 5px 5px 10px;
-
   width: auto;
   gap: 7px;
 }
@@ -403,8 +377,6 @@ article {
   min-width: 180px;
   margin: 10px 7px 5px 14px;
 }
-.article_title {
-}
 
 .article_price {
   font-size: 14px;
@@ -414,7 +386,6 @@ article {
   display: flex;
   height: auto;
   margin-top: auto;
-
   font-size: 12px;
   font-weight: 700;
   justify-self: flex-end;
@@ -454,7 +425,6 @@ article {
 .activites_a_marseille_section_container_1_1 {
   display: flex;
   flex-direction: row;
-
   gap: 45px;
   flex: 1 1;
   width: 50%;
@@ -471,9 +441,7 @@ article {
 .activites_a_marseille_section_container_1_1_1 {
   display: flex;
   flex-direction: column;
-
   gap: 45px;
-
   align-items: stretch;
   flex: 1;
 }
@@ -488,13 +456,10 @@ article {
   flex-direction: row;
   flex-wrap: wrap;
   height: 100%;
-
   padding: 0;
   margin: 0;
   height: 100%;
-
   flex: 1;
-
   align-items: stretch;
 }
 
@@ -534,9 +499,6 @@ article {
 }
 .article_small .activites_a_marseille_image_container {
   height: 180px;
-}
-
-.activites_a_marseille_image_container img {
 }
 
 .activites_a_marseille_section_container {
@@ -686,8 +648,6 @@ article {
     width: 50px;
     min-width: 50px;
   }
-  .search_icon {
-  }
 
   .search_button_container {
     position: relative;
@@ -696,15 +656,10 @@ article {
     width: 20px;
   }
 
-  .search_button {
-  }
-
   .button_icon {
     padding: 13px 14px 13px 14px;
   }
 
-  .search_button {
-  }
   .button_text {
     display: none;
   }
@@ -780,9 +735,6 @@ article {
   .section_title_container {
     margin-top: 0px;
     margin-bottom: 25px;
-  }
-
-  .hebergements_a_marseille_container a {
   }
 
   article {
@@ -922,8 +874,6 @@ article {
 
   .image_container {
     height: 180px;
-  }
-  section {
   }
 
   .article_text_container {

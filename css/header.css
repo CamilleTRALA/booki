@@ -31,7 +31,6 @@ nav ul li {
 
 .hebergement_lien {
   padding: 46px 20px 20px 30px;
-
   color: #0065fc;
   border-top-style: solid;
   border-width: 2px;
@@ -73,7 +72,6 @@ nav ul li {
   }
   .activites_lien {
     margin: 0;
-
     border-width: 6px;
     width: 100%;
     text-align: center;
