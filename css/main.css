@@ -573,6 +573,10 @@ article {
     flex-direction: row-reverse;
   }
 
+  .hebergements_a_marseille_container a {
+    min-width: 205px;
+  }
+
   #section_activites_a_marseille {
     padding-left: 40px;
     padding-right: 40px;
@@ -811,7 +815,7 @@ article {
   .hebergements_a_marseille_container a {
     margin: 0;
     height: auto;
-    min-width: 370px;
+    min-width: 270px;
   }
 
   .hebergements_a_marseille_article {
@@ -914,5 +918,9 @@ article {
   .hebergements_a_marseille_container {
     padding: 16px 20px 20px 20px;
     gap: 14px;
+  }
+
+  .hebergements_a_marseille_container a {
+    min-width: 230px;
   }
 }
